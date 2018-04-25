@@ -1,0 +1,10 @@
+/home/maron/projects/dotnet/NumberGuesserApp/bin/Debug/netcoreapp2.0/NumberGuesserApp.deps.json
+/home/maron/projects/dotnet/NumberGuesserApp/bin/Debug/netcoreapp2.0/NumberGuesserApp.runtimeconfig.json
+/home/maron/projects/dotnet/NumberGuesserApp/bin/Debug/netcoreapp2.0/NumberGuesserApp.runtimeconfig.dev.json
+/home/maron/projects/dotnet/NumberGuesserApp/bin/Debug/netcoreapp2.0/NumberGuesserApp.dll
+/home/maron/projects/dotnet/NumberGuesserApp/bin/Debug/netcoreapp2.0/NumberGuesserApp.pdb
+/home/maron/projects/dotnet/NumberGuesserApp/obj/Debug/netcoreapp2.0/NumberGuesserApp.csproj.CoreCompileInputs.cache
+/home/maron/projects/dotnet/NumberGuesserApp/obj/Debug/netcoreapp2.0/NumberGuesserApp.AssemblyInfoInputs.cache
+/home/maron/projects/dotnet/NumberGuesserApp/obj/Debug/netcoreapp2.0/NumberGuesserApp.AssemblyInfo.cs
+/home/maron/projects/dotnet/NumberGuesserApp/obj/Debug/netcoreapp2.0/NumberGuesserApp.dll
+/home/maron/projects/dotnet/NumberGuesserApp/obj/Debug/netcoreapp2.0/NumberGuesserApp.pdb
